@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Competitive Intelligence Dashboard
-colors: colors-a
+colors: colors-b
 date: '2024-01-01'
 client: ''
 description: >-
