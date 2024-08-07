@@ -6,10 +6,10 @@ date: '2024-01-01'
 client: ''
 description: >-
   In this project I analyzed the data provided by MSA on our competitors and
-  produced a detailed dashboard that provided insights on areas / line of
-  business that are working fine vs bad performing products. I used Python API
-  that collects data from the website and gives a final product that is hosted
-  in a PostgreSQL tables as backend with visualization is Power BI. 
+  produced a detailed dashboard that provided insights on metrics in accordance
+  to IFRS17 standards.  I used Python API that collects data from the website
+  and gives a final product that is hosted in a PostgreSQL tables as backend
+  with visualization is Power BI. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
