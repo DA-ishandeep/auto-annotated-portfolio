@@ -5,9 +5,11 @@ colors: colors-a
 date: '2023-06-01'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Project involved large flatfiles to be used as data source coming from
+  Mitchell and Xactimate. These then were loaded onto IICS and ETL process was
+  made to ensure the data is ingested correctly and accuracy would be
+  maintained. The final data set was used to gauge performance of each vendor on
+  different metrices such as Financial, Quality, Accuracy etc.    
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
