@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hi!! I'm Ishan
+    title: Hi! I'm Ishan
     subtitle: >-
       I have over 11+ years of experience in Data analytics and Business
       Intelligence. My proficiency extends to advanced Excel functionalities
