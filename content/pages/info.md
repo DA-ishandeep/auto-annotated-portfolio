@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey I’m a data analytics / business intelligence consultant. Born and
+      # Hey I’m a data analytics / business intelligence consultant. Born and
       raised in Delhi , India and Currently in Canada., and that’s also where
       I’m based.
 
@@ -25,7 +25,7 @@ sections:
       Ex- IndusInd Bank | Ex - Loblaws
 
 
-      ## When I’m not coding, writing or creating, I am gaming and getting
+      ### When I’m not coding, writing or creating, I am gaming and getting
       scratched by my cat name Pepper.
 
     media:
