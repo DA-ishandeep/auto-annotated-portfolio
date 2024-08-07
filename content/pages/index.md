@@ -71,7 +71,7 @@ sections:
         label: IICS ETL
         url: ''
       - type: Label
-        label: Pancakes
+        label: TABLEAU
         url: ''
       - type: Label
         label: POWER BI
