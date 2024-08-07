@@ -19,13 +19,13 @@ sections:
       I’m based.
 
 
-      ## I’m currently looking for freelance projects or if you have a position
+      # I’m currently looking for freelance projects or if you have a position
       that you are looking to fill, i'd be happy to jump on zoom / teams video
       or if you are old fashioned, dial a number. Ex- Royal Bank of Scotland |
       Ex- IndusInd Bank | Ex - Loblaws
 
 
-      ### When I’m not coding, writing or creating, I am gaming and getting
+      # When I’m not coding, writing or creating, I am gaming and getting
       scratched by my cat name Pepper.
 
     media:
