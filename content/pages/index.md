@@ -68,13 +68,13 @@ sections:
         label: SAS
         url: ''
       - type: Label
-        label: POWER BI
-        url: ''
-      - type: Label
         label: IICS ETL
         url: ''
       - type: Label
         label: Pancakes
+        url: ''
+      - type: Label
+        label: POWER BI
         url: ''
       - type: Label
         label: 'AWS ( GLUE, S3, REDSHIFT )'
