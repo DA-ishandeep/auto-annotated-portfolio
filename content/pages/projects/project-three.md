@@ -7,8 +7,10 @@ client: ''
 description: >-
   Analyzed market labor rates for the automotive industry using Informatica /
   Power BI, comparing the fees charged to prevailing market standards. The
-  analysis provided a deeper understanding of billed amount sand hours, which
-  will consequently assist in further reducing payments
+  analysis provided a deeper understanding of billed amounts and hours, which
+  will consequently assist in further reducing payments. A functionality was
+  given where user could adjust the pricing on the fly to calculate the impact
+  of price change without much impact on performance. 
 media:
   type: ImageBlock
   url: /images/gallery-1.jpg
