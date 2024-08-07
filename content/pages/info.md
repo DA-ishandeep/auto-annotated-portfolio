@@ -13,20 +13,21 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
-      Hey I’m a data analytics / business intelligence consultant. Born and
+    text: >+
+      #### Hey I’m a data analytics / business intelligence consultant. Born and
       raised in Delhi , India and Currently in Canada., and that’s also where
-      I’m based. 
+      I’m based.
 
 
-      I’m currently looking for freelance projects or if you have a position
-      that you are looking to fill, i'd be happy to jump on zoom / teams video
-      or if you are old fashioned, dial a number. Ex- Royal Bank of Scotland |
-      Ex- IndusInd Bank | Ex - Loblaws  
+      #### I’m currently looking for freelance projects or if you have a
+      position that you are looking to fill, i'd be happy to jump on zoom /
+      teams video or if you are old fashioned, dial a number. Ex- Royal Bank of
+      Scotland | Ex- IndusInd Bank | Ex - Loblaws
 
 
-      When I’m not coding, writing or creating, I am gaming and getting
-      scratched by my cat name Pepper. 
+      #### When I’m not coding, writing or creating, I am gaming and getting
+      scratched by my cat name Pepper.
+
     media:
       type: ImageBlock
       url: /images/55323294_9202022.jpg
