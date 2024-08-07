@@ -123,7 +123,7 @@ sections:
       - type: Label
         label: IICS ETL
       - type: Label
-        label: Netlify
+        label: TABLEAU
       - type: Label
         label: Pancakes
       - type: Label
