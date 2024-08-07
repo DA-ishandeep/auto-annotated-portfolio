@@ -125,7 +125,7 @@ sections:
       - type: Label
         label: TABLEAU
       - type: Label
-        label: Pancakes
+        label: POWER BI
       - type: Label
         label: C++
       - type: Label
