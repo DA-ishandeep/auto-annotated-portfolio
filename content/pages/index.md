@@ -71,7 +71,7 @@ sections:
         label: POWER BI
         url: ''
       - type: Label
-        label: Netlify
+        label: IICS ETL
         url: ''
       - type: Label
         label: Pancakes
