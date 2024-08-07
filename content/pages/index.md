@@ -59,7 +59,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: full
+        width: wide
         padding:
           - pt-2
           - pb-2
