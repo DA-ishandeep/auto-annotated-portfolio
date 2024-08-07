@@ -17,15 +17,15 @@ sections:
     subtitle: >-
       I have over 11+ years of experience in Data analytics and Business
       Intelligence. My proficiency extends to advanced Excel functionalities
-      such as VBA Macros and Power Query. With a solid foundation in SAS and
-      experience with databases like SQL Server, PostgreSQL, and Teradata, I am
-      adept at extracting, analyzing, and visualizing data to derive actionable
-      insights. As a PL 300 certified Power BI professional, I thrive in
-      transforming complex datasets into compelling visual narratives. My skills
-      also encompass ETL processes using Informatica PowerCenter and IICS. I am
-      passionate about leveraging data to drive informed decision-making and
-      continuously seek opportunities to expand my knowledge and expertise in
-      the evolving field of data analytics.
+      such as VBA Macros and Power Query. With a solid foundation in Python and
+      SAS and experience with databases like SQL Server, PostgreSQL, and
+      Teradata, I am adept at extracting, analyzing, and visualizing data to
+      derive actionable insights. As a PL 300 certified Power BI professional, I
+      thrive in transforming complex datasets into compelling visual narratives.
+      My skills also encompass ETL processes using Informatica PowerCenter and
+      IICS. I am passionate about leveraging data to drive informed
+      decision-making and continuously seek opportunities to expand my knowledge
+      and expertise in the evolving field of data analytics.
     styles:
       self:
         height: auto
