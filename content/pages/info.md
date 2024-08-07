@@ -127,7 +127,7 @@ sections:
       - type: Label
         label: POWER BI
       - type: Label
-        label: C++
+        label: AWS
       - type: Label
         label: Swift
   - type: DividerSection
