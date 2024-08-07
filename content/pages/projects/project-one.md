@@ -12,7 +12,7 @@ description: >-
   different metrices such as Financial, Quality, Accuracy etc.    
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/contact.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
