@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: Hi!! I'm Ishan
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      with over 11+ years of experience in Data analytics and Business
+      Intelligence. Utilized Power BI, resulting in a 20%reduction in report
+      creation time and a 30% decrease in system downtime. Automated ETL
+      pipelines, saving20 hours of manual effort in data extraction. Implemented
+      Linear regression models to target specific age group customers that were
+      likely to buy products.
     styles:
       self:
         height: auto
