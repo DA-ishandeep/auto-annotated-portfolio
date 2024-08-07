@@ -69,7 +69,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked / working with these folks:'
+    subtitle: 'I have worked / working with these folks:'
     images:
       - type: ImageBlock
         url: /images/58482518cef1014c0b5e49d0.png
