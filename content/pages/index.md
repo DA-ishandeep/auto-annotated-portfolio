@@ -79,9 +79,6 @@ sections:
       - type: Label
         label: 'AWS ( GLUE, S3, REDSHIFT )'
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
