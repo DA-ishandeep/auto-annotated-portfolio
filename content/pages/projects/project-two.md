@@ -5,9 +5,11 @@ colors: colors-a
 date: '2024-01-01'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  In this project I analyzed the data provided by MSA on our competitors and
+  produced a detailed dashboard that provided insights on areas / line of
+  business that are working fine vs bad performing products. I used Python API
+  that collects data from the website and gives a final product that is hosted
+  in a PostgreSQL tables as backend with visualization is Power BI. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
