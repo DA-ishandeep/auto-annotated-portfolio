@@ -68,7 +68,7 @@ sections:
         label: SAS
         url: ''
       - type: Label
-        label: Next.js
+        label: POWER BI
         url: ''
       - type: Label
         label: Netlify
