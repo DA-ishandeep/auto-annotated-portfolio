@@ -13,14 +13,23 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Hey I’m a data analytics / business intelligence consultant. Born and
+      raised in Delhi , India and Currently in Canada., and that’s also where
+      I’m based.
+
+
+      I’m currently looking for freelance projects or if you have a position
+      that you are looking to fill, i'd be happy to jump on zoom / teams video
+      or if you are old fashioned, dial a number. Ex- Royal Bank of Scotland |
+      Ex- IndusInd Bank | Ex - Loblaws
+
+
+      When I’m not coding, writing or creating, I am gaming and getting
+      scratched by my cat name Pepper.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/55323294_9202022.jpg
       altText: Hero image
     styles:
       self:
@@ -60,28 +69,24 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I have worked / working with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/58482518cef1014c0b5e49d0.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/627cccb81b2e263b45696ab0.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Loblaw_Companies-Logo.wine.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/wawanesa-insurance-logo-vector.png
         altText: Logo four
         caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -105,123 +110,24 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: PYTHON
       - type: Label
-        label: React
+        label: SQL
       - type: Label
-        label: Microsoft Office
+        label: SAS
       - type: Label
-        label: Next.js
+        label: IICS ETL
       - type: Label
-        label: Netlify
+        label: TABLEAU
       - type: Label
-        label: Pancakes
+        label: POWER BI
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: AWS
   - type: DividerSection
     styles:
       self:
@@ -239,7 +145,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <getishan@gmail.com>
   - type: DividerSection
     styles:
       self:
@@ -257,26 +163,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **06/2021 - Current**
 
-          * freelance @freelance.me
+          *   Business Intelligence Analyst @ Wawanesa Mutual Insurance
 
-          **2018-2021**
+          **10/2018-06/2021**
 
-          * fullstack at this startup
+          *   Programmer Analyst @ Loblaw Companies Limited
 
-          **2015**
+          **08/2018 - 09/2018**
 
-          * senior front-end at this place
+          *   Financial Analyst Intern @ Loblaw Companies Limited
 
-          **2013**
+          **11/2017 - 05/2018**
 
-          * intern developer at a big company
+          *   Business Support Manager @ IndusInd Bank
 
-          **2011**
+          **04/2012 - 01/2017**
 
-          * flipping burgers
+          *   Assistant Manager - Analytics @ Royal Bank of Scotland
+
         styles:
           self:
             textAlign: left
@@ -287,18 +194,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2008 - 2011**
 
-          * ba computer sciense at a semi fancy school
+          *   B.SC - Information Technology ( Kuvempu University ) 
 
-          **2014**
+          **2008 - 2011**
 
-          * react certificate somewhere
+          *   Software Engg Diploma - NIIT 
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -381,11 +285,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
