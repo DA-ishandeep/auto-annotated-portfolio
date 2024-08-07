@@ -119,7 +119,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Microsoft Office
+        label: SAS
       - type: Label
         label: Next.js
       - type: Label
