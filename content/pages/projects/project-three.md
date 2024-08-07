@@ -5,9 +5,10 @@ colors: colors-a
 date: '2024-01-01'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Analyzed market labor rates for the automotive industry using Informatica /
+  Power BI, comparing the fees charged to prevailing market standards. The
+  analysis provided a deeper understanding of billed amount sand hours, which
+  will consequently assist in further reducing payments
 media:
   type: ImageBlock
   url: /images/gallery-1.jpg
