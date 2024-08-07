@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Hi!! I'm Ishan
     subtitle: >-
       I have over 11+ years of experience in Data analytics and Business
