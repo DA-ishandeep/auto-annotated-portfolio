@@ -62,7 +62,7 @@ sections:
         width: full
         padding:
           - pt-2
-          - pb-36
+          - pb-2
         justifyContent: center
         borderWidth: 1
   - type: LabelsSection
