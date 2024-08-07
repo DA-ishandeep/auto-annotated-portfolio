@@ -163,26 +163,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **06/2021 - Current**
 
-          * freelance @freelance.me
+          *   Business Intelligence Analyst @ Wawanesa Mutual Insurance
 
-          **2018-2021**
+          **10/2018-06/2021**
 
-          * fullstack at this startup
+          *   Programmer Analyst @ Loblaw Companies Limited
 
-          **2015**
+          **08/2018 - 09/2018**
 
-          * senior front-end at this place
+          *   Financial Analyst Intern @ Loblaw Companies Limited
 
-          **2013**
+          **11/2017 - 05/2018**
 
-          * intern developer at a big company
+          *   Business Support Manager @ IndusInd Bank
 
-          **2011**
+          **04/2012 - 01/2017**
 
-          * flipping burgers
+          *   Assistant Manager - Analytics
+
         styles:
           self:
             textAlign: left
