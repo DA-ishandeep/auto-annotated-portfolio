@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'VENDOR PERFORMANCE DASHBOARD '
+title: LABOUR RATE ANALYSIS
 colors: colors-a
 date: '2024-01-01'
 client: ''
