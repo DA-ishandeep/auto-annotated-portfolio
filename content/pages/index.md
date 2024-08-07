@@ -56,7 +56,7 @@ sections:
     actions: []
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: PYTHON
