@@ -121,7 +121,7 @@ sections:
       - type: Label
         label: SAS
       - type: Label
-        label: Next.js
+        label: IICS ETL
       - type: Label
         label: Netlify
       - type: Label
