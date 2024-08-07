@@ -182,7 +182,7 @@ sections:
 
           **04/2012 - 01/2017**
 
-          *   Assistant Manager - Analytics
+          *   Assistant Manager - Analytics @ Royal Bank of Scotland
 
         styles:
           self:
