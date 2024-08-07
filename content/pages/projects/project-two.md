@@ -12,7 +12,7 @@ description: >-
   with visualization is Power BI. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/gallery-4.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
