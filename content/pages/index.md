@@ -77,7 +77,7 @@ sections:
         label: Pancakes
         url: ''
       - type: Label
-        label: C++
+        label: 'AWS ( GLUE, S3, REDSHIFT )'
         url: ''
       - type: Label
         label: Swift
