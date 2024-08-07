@@ -65,7 +65,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: SAS
         url: ''
       - type: Label
         label: Next.js
