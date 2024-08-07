@@ -194,18 +194,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2008 - 2011**
 
-          * ba computer sciense at a semi fancy school
+          *   B.SC - Information Technology ( Kuvempu University ) 
 
-          **2014**
+          **2008 - 2011**
 
-          * react certificate somewhere
+          *   Software Engg Diploma - NIIT 
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
