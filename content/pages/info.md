@@ -128,8 +128,6 @@ sections:
         label: POWER BI
       - type: Label
         label: AWS
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
