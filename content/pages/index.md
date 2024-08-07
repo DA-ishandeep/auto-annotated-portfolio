@@ -62,7 +62,7 @@ sections:
         label: PYTHON
         url: ''
       - type: Label
-        label: React
+        label: SQL
         url: ''
       - type: Label
         label: Microsoft Office
