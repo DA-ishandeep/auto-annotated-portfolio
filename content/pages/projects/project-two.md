@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Competitive Intelligence Dashboard
 colors: colors-a
-date: '2021-02-20'
+date: '2021-01-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
