@@ -117,7 +117,7 @@ sections:
       - type: Label
         label: PYTHON
       - type: Label
-        label: React
+        label: SQL
       - type: Label
         label: Microsoft Office
       - type: Label
