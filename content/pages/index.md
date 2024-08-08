@@ -172,7 +172,7 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-6
+          - pt-3
           - pb-4
           - pl-4
           - pr-4
