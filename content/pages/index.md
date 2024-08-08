@@ -152,7 +152,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/PCEP Cert.jpg
-        altText: Image two
+        altText: PCEP
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
