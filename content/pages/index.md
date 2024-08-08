@@ -151,7 +151,7 @@ sections:
         caption: PL 300
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/PCEP Cert.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
