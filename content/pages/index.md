@@ -177,7 +177,7 @@ sections:
     spacing: 9
     columns: 4
     aspectRatio: auto
-    showCaption: false
+    showCaption: true
     enableHover: false
     elementId: ''
     styles:
