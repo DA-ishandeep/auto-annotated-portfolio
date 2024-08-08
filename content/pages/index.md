@@ -156,7 +156,7 @@ sections:
         caption: PCEP
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/CSM.jpeg
         altText: Image three
         caption: Image three caption
         elementId: ''
