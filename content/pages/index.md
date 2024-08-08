@@ -142,7 +142,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: MediaGallerySection
-    title: Gallery
+    title: CERTIFICATIONS / TRAININGS
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
