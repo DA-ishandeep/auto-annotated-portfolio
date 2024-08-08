@@ -146,7 +146,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/PL - 300.PNG
         altText: Image one
         caption: Image one caption
         elementId: ''
