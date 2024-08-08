@@ -147,7 +147,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/PL - 300.PNG
-        altText: Image one
+        altText: Power Bi - PL 300
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
