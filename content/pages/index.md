@@ -164,15 +164,15 @@ sections:
         caption: PL 300
         elementId: ''
       - type: ImageBlock
+        url: /images/PCEP Cert.jpg
+        altText: PCEP
+        caption: PCEP
+        elementId: ''
+      - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
         caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/PCEP Cert.jpg
-        altText: PCEP
-        caption: PCEP
         elementId: ''
       - type: ImageBlock
         url: /images/CSM.jpeg
