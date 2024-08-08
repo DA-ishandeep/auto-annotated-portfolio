@@ -178,7 +178,7 @@ sections:
     columns: 4
     aspectRatio: auto
     showCaption: false
-    enableHover: true
+    enableHover: false
     elementId: ''
     styles:
       self:
